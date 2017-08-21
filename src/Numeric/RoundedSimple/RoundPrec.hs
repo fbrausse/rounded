@@ -1,7 +1,7 @@
 {-# LANGUAGE DeriveDataTypeable #-}
 -----------------------------------------------------------------------------
 -- |
--- Module      :  Numeric.Rounded.RoundPrec
+-- Module      :  Numeric.RoundedSimple.RoundPrec
 -- Copyright   :  (C) 2012-2014 Edward Kmett, Daniel Peebles
 --                (C) 2013-2017 Claude Heiland-Allen
 -- License     :  LGPL
@@ -10,7 +10,7 @@
 -- Portability :  non-portable
 --
 ----------------------------------------------------------------------------
-module Numeric.Rounded.RoundPrec
+module Numeric.RoundedSimple.RoundPrec
 where
 
 import Data.Data
