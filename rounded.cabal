@@ -37,6 +37,9 @@ library
     Numeric.Rounded
     Numeric.Rounded.Interval
     Numeric.MPFR.Types
+    Numeric.MPFR.Functions
+    Numeric.MPFR.RoundPrec
+    Numeric.MPFR.LowLevel
 
   other-modules:
     Numeric.Rounded.Rounding
