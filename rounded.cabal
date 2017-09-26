@@ -39,6 +39,8 @@ library
     Numeric.Rounded.Simple
     Numeric.MPFR.Types
     Numeric.MPFR.Raw.Unsafe
+    Numeric.RoundedSimple
+    Numeric.RoundedSimple.RoundPrec
 
   other-modules:
     Numeric.Rounded.Rounding
